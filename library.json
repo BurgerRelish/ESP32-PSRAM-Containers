@@ -2,7 +2,7 @@
     "name": "PSRAM Containers",
     "version": "1.0.0",
     "description": "Implementations of the std::containers, but using PSRAM only. Comes with a modified C++ allocator.",
-    "keywords": "PSRAM, std::containers, allocator",
+    "keywords": "PSRAM, Data Containers, Allocator",
     "repository":
     {
       "type": "git",
